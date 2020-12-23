@@ -1,0 +1,8 @@
+/**
+ * Main styles not related to components
+ * Reset styles, mixins if needed
+ */
+body {
+  margin: 0;
+  color: #2b1202; /* Default fonts color */
+}

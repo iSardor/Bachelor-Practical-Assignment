@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIA,KACE,QAAS,CACT,aACF","file":"main.abd6330e.chunk.css","sourcesContent":["/**\n * Main styles not related to components\n * Reset styles, mixins if needed\n */\nbody {\n  margin: 0;\n  color: #2b1202; /* Default fonts color */\n}\n"]}
